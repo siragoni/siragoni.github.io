@@ -1,0 +1,317 @@
+[
+  {
+    "year": 2026,
+    "date": "2026-10-13",
+    "title": "ALICE International Masterclass during Physics Week in Wuhan",
+    "event": "ALICE Physics Week 2026 · educational outreach",
+    "place": "Central China Normal University, Wuhan, China",
+    "type": "Outreach",
+    "url": "https://alice-collaboration.web.cern.ch/2026-ALICE-Physics-Week"
+  },
+  {
+    "year": 2026,
+    "date": "2026-07-09",
+    "title": "Mining UPCs with AI-based methods and femtoscopy",
+    "event": "EMMI Workshop: Mining for gluon saturation at the LHC and the future EIC",
+    "place": "GSI, Darmstadt, Germany",
+    "type": "Talk",
+    "url": "https://indico.gsi.de/event/24193/contributions/101160/"
+  },
+  {
+    "year": 2026,
+    "date": "2026-01-22",
+    "title": "UPCs: a treasure trove for the ALICE experiment",
+    "event": "Institute of Physics Seminar · University of Silesia",
+    "place": "Chorzów, Poland",
+    "type": "Seminar",
+    "url": "https://us.edu.pl/instytut/ifiz/seminarium-instytutowe-04-12-2025-dr-simone-ragoni/"
+  },
+  {
+    "year": 2025,
+    "date": "2025-09-25",
+    "title": "AI-powered full-data set search for new physics in ultraperipheral and diffractive events",
+    "event": "Creighton University Seminar",
+    "place": "Omaha, USA",
+    "type": "Seminar"
+  },
+  {
+    "year": 2025,
+    "date": "2025-07-10",
+    "title": "Outreach, educational activities and communication of the ALICE Collaboration",
+    "event": "European Physical Society Conference on High Energy Physics (EPS-HEP)",
+    "place": "Marseille, France",
+    "type": "Talk",
+    "url": "https://indico.in2p3.fr/event/33627/contributions/155060/"
+  },
+  {
+    "year": 2025,
+    "date": "2025-07-09",
+    "title": "Zero-bias new particle searches in UPCs",
+    "event": "European Physical Society Conference on High Energy Physics (EPS-HEP)",
+    "place": "Marseille, France",
+    "type": "Poster",
+    "url": "https://indico.in2p3.fr/event/33627/contributions/155174/"
+  },
+  {
+    "year": 2025,
+    "date": "2025-07-08",
+    "title": "Overview of particle production in inelastic photonuclear interactions with ALICE",
+    "event": "European Physical Society Conference on High Energy Physics (EPS-HEP)",
+    "place": "Marseille, France",
+    "type": "Talk",
+    "url": "https://indico.in2p3.fr/event/33627/contributions/156314/"
+  },
+  {
+    "year": 2025,
+    "date": "2025-06-12",
+    "title": "Production of π, K, p in inclusive UPC events in ALICE",
+    "event": "International Workshop on the Physics of Ultra Peripheral Collisions (UPC 2025)",
+    "place": "Finland",
+    "type": "Talk",
+    "url": "https://indico.global/event/9992/contributions/122608/"
+  },
+  {
+    "year": 2025,
+    "date": "2025-04-06",
+    "title": "Particle production in inelastic photonuclear interactions in ultra-peripheral Pb–Pb collisions with ALICE",
+    "event": "Quark Matter 2025",
+    "place": "Frankfurt, Germany",
+    "type": "Poster",
+    "url": "https://indico.cern.ch/event/1334113/contributions/6351027/"
+  },
+  {
+    "year": 2025,
+    "date": "2025-02-28",
+    "title": "Past, present and future of UPCs in ALICE",
+    "event": "University of Sonora Seminar",
+    "place": "Sonora, Mexico",
+    "type": "Seminar"
+  },
+  {
+    "year": 2024,
+    "date": "2024-12-13",
+    "title": "Zero-bias new particle searches and other machine learning applications for UPCs",
+    "event": "Forward Physics Workshop",
+    "place": "CERN, Geneva, Switzerland",
+    "type": "Talk",
+    "url": "https://indico.cern.ch/event/1367518/contributions/6224225/"
+  },
+  {
+    "year": 2024,
+    "date": "2024-12-05",
+    "title": "Machine learning opportunities for tagging photo-induced and diffractive events in continuous-readout experiments",
+    "event": "ALICE Physics Week",
+    "place": "Salerno, Italy",
+    "type": "Talk",
+    "url": "https://indico.cern.ch/event/1462154/"
+  },
+  {
+    "year": 2024,
+    "date": "2024-09-11",
+    "title": "Overview of the latest ALICE UPC and photonuclear results",
+    "event": "Diffraction and Low-x",
+    "place": "Palermo, Italy",
+    "type": "Talk",
+    "url": "https://indico.cern.ch/event/1354173/contributions/6078734/"
+  },
+  {
+    "year": 2024,
+    "date": "2024-09-04",
+    "title": "Incoherent and coherent UPCs with ALICE",
+    "event": "International Workshop: QCD Challenges from pp to A–A Collisions",
+    "place": "Münster, Germany",
+    "type": "Talk",
+    "url": "https://indico.uni-muenster.de/event/2607/contributions/4635/"
+  },
+  {
+    "year": 2024,
+    "date": "2024-07-19",
+    "title": "Outreach, educational activities and communication of the ALICE Collaboration",
+    "event": "International Conference on High Energy Physics (ICHEP)",
+    "place": "Prague, Czechia",
+    "type": "Talk",
+    "url": "https://indico.cern.ch/event/1291157/contributions/5887124/"
+  },
+  {
+    "year": 2023,
+    "date": "2023-10-25",
+    "title": "Studying photonuclear cross sections with UPCs in ALICE",
+    "event": "WE-Heraeus Forward Physics Workshop · poster & flash talk (honourable mention)",
+    "place": "Bonn, Germany",
+    "type": "Poster",
+    "url": "https://indico.cern.ch/event/1339885/contributions/5640657/"
+  },
+  {
+    "year": 2023,
+    "date": "2023-09-06",
+    "title": "First global study of super-dense gluonic matter with UPCs by ALICE",
+    "event": "Quark Matter 2023",
+    "place": "Houston, USA",
+    "type": "Talk",
+    "url": "https://indico.cern.ch/event/1139644/contributions/5540119/"
+  },
+  {
+    "year": 2023,
+    "date": "2023",
+    "title": "New results in UPC",
+    "event": "ALICE Physics Week",
+    "place": "Bucharest, Romania",
+    "type": "Talk"
+  },
+  {
+    "year": 2023,
+    "date": "2023-06-27",
+    "title": "Recent ALICE results on charmonium photoproduction",
+    "event": "CERN Seminar · invited",
+    "place": "CERN, Geneva, Switzerland",
+    "type": "Seminar",
+    "url": "https://indico.cern.ch/event/1281609/"
+  },
+  {
+    "year": 2023,
+    "date": "2023-03-31",
+    "title": "Recent results on J/ψ photoproduction in ultra-peripheral collisions with ALICE",
+    "event": "Rencontres de Moriond QCD · invited",
+    "place": "La Thuile, Italy",
+    "type": "Talk",
+    "url": "https://moriond.in2p3.fr/2023/QCD/Program.html"
+  },
+  {
+    "year": 2022,
+    "date": "2022-12-20",
+    "title": "Become a particle physicist in eight simple moves",
+    "event": "Public book presentation · City Hall",
+    "place": "Carrara, Italy",
+    "type": "Outreach"
+  },
+  {
+    "year": 2022,
+    "date": "2022",
+    "title": "Become a particle physicist in eight simple moves",
+    "event": "24th IPPOG Meeting",
+    "place": "CERN, Geneva, Switzerland",
+    "type": "Outreach",
+    "url": "https://indico.cern.ch/event/1185824/contributions/5025517/"
+  },
+  {
+    "year": 2022,
+    "date": "2022",
+    "title": "Recent ALICE results on charmonium photoproduction",
+    "event": "CIPANP · invited",
+    "place": "Orlando, USA",
+    "type": "Talk"
+  },
+  {
+    "year": 2022,
+    "date": "2022",
+    "title": "New results in UPC",
+    "event": "ALICE Physics Week",
+    "place": "CERN, Geneva, Switzerland",
+    "type": "Talk"
+  },
+  {
+    "year": 2021,
+    "date": "2021",
+    "title": "J/ψ polarisation and neutron emission",
+    "event": "ALICE Physics Week",
+    "place": "Online",
+    "type": "Talk"
+  },
+  {
+    "year": 2021,
+    "date": "2021",
+    "title": "Recent ALICE results on vector-meson photoproduction",
+    "event": "Diffraction and Low-x",
+    "place": "Elba, Italy",
+    "type": "Talk",
+    "url": "https://arxiv.org/abs/2206.11624"
+  },
+  {
+    "year": 2021,
+    "date": "2021-06-08",
+    "title": "New measurements on diffractive vector mesons",
+    "event": "Large Hadron Collider Physics Conference (LHCP) · ALICE/LHCb",
+    "place": "Online",
+    "type": "Talk"
+  },
+  {
+    "year": 2021,
+    "date": "2021-04-12",
+    "title": "J/ψ photoproduction analysis in ALICE",
+    "event": "Joint Institute of Physics Nuclear / Particle / Astroparticle Conference",
+    "place": "Online",
+    "type": "Talk"
+  },
+  {
+    "year": 2020,
+    "date": "2020",
+    "title": "J/ψ polarisation",
+    "event": "ALICE Physics Week",
+    "place": "Online",
+    "type": "Talk"
+  },
+  {
+    "year": 2020,
+    "date": "2020",
+    "title": "Overview of J/ψ in UPCs",
+    "event": "ALICE Juniors Day",
+    "place": "Online",
+    "type": "Talk"
+  },
+  {
+    "year": 2020,
+    "date": "2020",
+    "title": "Overview of main UPC results",
+    "event": "UK Nuclear Lockdown Seminars",
+    "place": "Online",
+    "type": "Seminar"
+  },
+  {
+    "year": 2020,
+    "date": "2020-05-25",
+    "title": "UPC: a powerful tool for J/ψ photoproduction analysis in ALICE",
+    "event": "Large Hadron Collider Physics Conference (LHCP)",
+    "place": "Online",
+    "type": "Poster"
+  },
+  {
+    "year": 2020,
+    "date": "2020-02-18",
+    "title": "Outreach with high-school students at CERN",
+    "event": "High-school outreach presentation",
+    "place": "Pisa, Italy",
+    "type": "Outreach"
+  },
+  {
+    "year": 2019,
+    "date": "2019",
+    "title": "Overview of J/ψ in UPCs",
+    "event": "ALICE Physics Week",
+    "place": "Prague, Czechia",
+    "type": "Talk"
+  },
+  {
+    "year": 2019,
+    "date": "2019",
+    "title": "Recent results for forward J/ψ production in Pb–Pb UPCs",
+    "event": "International Nuclear Physics Conference (INPC)",
+    "place": "Glasgow, UK",
+    "type": "Poster"
+  },
+  {
+    "year": 2018,
+    "date": "2018",
+    "title": "Production of pions, kaons and protons in Xe–Xe collisions at 5.44 TeV",
+    "event": "Large Hadron Collider Physics Conference (LHCP)",
+    "place": "Bologna, Italy",
+    "type": "Poster"
+  },
+  {
+    "year": 2018,
+    "date": "2018-07-19",
+    "title": "Charged-hadron production in Xe–Xe collisions: details of the TOF analysis",
+    "event": "ALICE Juniors Day",
+    "place": "CERN, Geneva, Switzerland",
+    "type": "Talk"
+  }
+]
